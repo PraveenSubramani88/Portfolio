@@ -8992,9 +8992,9 @@ h1, h2, h3, h4, h5,
     .project .text h3 {
       font-size: 20px; }
       .project .text h3 a {
-        color: #fff; }
+        color: #000; }
     .project .text span {
-      color: rgba(255, 255, 255, 0.8);
+      color: rgba(0, 0, 0, 0.8);
       text-transform: uppercase;
       letter-spacing: 2px;
       font-size: 12px;
